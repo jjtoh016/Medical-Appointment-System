@@ -1,0 +1,1 @@
+EMAS.cpp is the main cpp file, build and run EMAS.cpp will do.
